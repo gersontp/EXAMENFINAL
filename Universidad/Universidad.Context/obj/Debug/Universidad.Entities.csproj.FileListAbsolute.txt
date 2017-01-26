@@ -1,0 +1,6 @@
+C:\Users\Clase\Desktop\PROGRA-FINAL\Progra\Universidad\Universidad.Context\bin\Debug\Universidad.Context.dll
+C:\Users\Clase\Desktop\PROGRA-FINAL\Progra\Universidad\Universidad.Context\bin\Debug\Universidad.Context.pdb
+C:\Users\Clase\Desktop\PROGRA-FINAL\Progra\Universidad\Universidad.Context\obj\Debug\Universidad.Context.dll
+C:\Users\Clase\Desktop\PROGRA-FINAL\Progra\Universidad\Universidad.Context\obj\Debug\Universidad.Context.pdb
+C:\Users\Clase\Desktop\PROGRA-FINAL\Progra\Universidad\Universidad.Context\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Clase\Desktop\PROGRA-FINAL\Progra\Universidad\Universidad.Context\bin\Debug\Newtonsoft.Json.xml
